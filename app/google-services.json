@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "157507119853",
+    "firebase_url": "https://smbs-32b9d-default-rtdb.firebaseio.com",
+    "project_id": "smbs-32b9d",
+    "storage_bucket": "smbs-32b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157507119853:android:47fb0e235d26e8b945bae4",
+        "android_client_info": {
+          "package_name": "com.example.sbp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157507119853-v9rfv41p3ebuc54sr9tnm2v2etkvfip7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD25vu4yj9FQUlJyO3RfFH1pKt66gW806g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157507119853-v9rfv41p3ebuc54sr9tnm2v2etkvfip7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157507119853:android:62a51dc2ed643d8845bae4",
+        "android_client_info": {
+          "package_name": "com.example.smart_buss_pass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157507119853-v9rfv41p3ebuc54sr9tnm2v2etkvfip7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD25vu4yj9FQUlJyO3RfFH1pKt66gW806g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157507119853-v9rfv41p3ebuc54sr9tnm2v2etkvfip7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
